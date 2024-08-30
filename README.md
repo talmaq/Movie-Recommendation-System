@@ -43,10 +43,7 @@ To run this project, you will need to have Python installed along with the follo
 
 - Pandas
 - NumPy
-- scikit-learn
 - NLTK (Natural Language Toolkit)
-- Matplotlib
-- Seaborn
 
 > It is recommended to use a virtual environment to avoid conflicts with other projects.
 
